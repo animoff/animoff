@@ -2,7 +2,7 @@
 - 👀 I am interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I want to collaborate with programmers who can teach me something new.
-- 📫 How to reach me ...
+- 📫 panterafasil@
 - 😄 man
 - ⚡ Fun fact: ...
 
